@@ -1,6 +1,6 @@
 # 🚦 Port Scanner Tool
 
-![banner](https://raw.githubusercontent.com/Argh94/portscanner/main/assets/banner.png) <!-- اگر بنر نداری این خط را حذف کن -->
+![banner](https://github.com/Argh94/portscanner/blob/main/Termux.png) <!-- اگر بنر نداری این خط را حذف کن -->
 
 ---
 
